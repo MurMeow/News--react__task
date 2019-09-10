@@ -1,0 +1,7 @@
+export const AUTHORIZATION_SUCCESS = 'AUTHORIZATION_SUCCESS';
+export const AUTHORIZATION_FAIL = 'AUTHORIZATION_FAIL';
+export const ADD_USER = 'ADD_USER';
+export const REMOVE_USER = 'REMOVE_USER';
+export const ADD_NEWS = 'ADD_NEWS';
+export const REMOVE_NEWS = 'REMOVE_NEWS';
+
