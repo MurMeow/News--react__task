@@ -33,7 +33,7 @@
     "redux-thunk": "^2.3.0",
     "sass-loader": "^7.1.0",
     "webpack": "^4.31.0",
-    "webpack-cli": "^3.3.0"
+    "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
     "@babel/core": "^7.4.3",
